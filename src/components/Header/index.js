@@ -1,6 +1,6 @@
 import react from 'react';
 
-import BTLogo from '../../images/react-movie-logo.svg';
+import BTLogo from '../../images/bledtube-logo.svg';
 import TMDBLogo from '../../images/tmdb_logo.svg';
 
 import { Wrapper, Content, LogoImg, TMDBLogoImg } from './Header.styles';
