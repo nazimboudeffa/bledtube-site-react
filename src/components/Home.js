@@ -7,7 +7,6 @@ import HeroImage from './HeroImage'
 import { useHomeFetch } from '../hooks/useHomeFetch';
 //Image
 import NoImage from '../images/no_image.jpg';
-import { stat } from '@nodelib/fs.stat';
 
 const Home = () => {
     const { state, loading, error } = useHomeFetch();
